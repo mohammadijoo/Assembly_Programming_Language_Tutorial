@@ -1,0 +1,1 @@
+mov eax, 0       ; also EAX = 0, but typically longer encoding than xor
