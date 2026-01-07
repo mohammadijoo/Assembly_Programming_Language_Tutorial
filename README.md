@@ -153,8 +153,24 @@ If you already have a `LICENSE` file, this section can be shortened to reference
 
 ---
 
-## Course playlist (YouTube)
+## Course Playlist (YouTube)
 
-Replace `YOUR_PLAYLIST_ID` with your actual playlist ID:
+YouTube Course Playlist in Persian Language.
 
-[![YouTube Playlist](https://img.shields.io/badge/YouTube-Open%20Playlist-red)](https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID)
+<a href="https://www.youtube.com/playlist?list=PLdUBuoJCa2Byn0ZGtOFgJTUk2wD1r4Q-f" target="_blank">
+  <img
+    src="https://i.ytimg.com/vi/VLe1-gegENc/maxresdefault.jpg"
+    alt="Assembly Programming Language Tutorial"
+    style="max-width: 100%; border-radius: 10px; box-shadow: 0 6px 18px rgba(0,0,0,0.18); margin-top: 0.5rem;"
+  />
+</a>
+
+YouTube Course Playlist in English Language.
+
+<a href="https://www.youtube.com/watch?v=HwZptWXj4pA" target="_blank">
+  <img
+    src="https://i.ytimg.com/vi/HwZptWXj4pA/maxresdefault.jpg"
+    alt="Assembly Programming Language Tutorial"
+    style="max-width: 100%; border-radius: 10px; box-shadow: 0 6px 18px rgba(0,0,0,0.18); margin-top: 0.5rem;"
+  />
+</a>
