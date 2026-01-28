@@ -152,7 +152,7 @@ Please open an issue describing the change and the toolchain used to validate it
 
 <a href="https://www.youtube.com/playlist?list=PLdUBuoJCa2BxXoJMpe_iQBNQ8YS9HjE2y" target="_blank">
   <img
-    src="https://i.ytimg.com/vi/AGCDYhktuZc/maxresdefault.jpg"
+    src="https://i.ytimg.com/vi/yOacJ9_1H5E/maxresdefault.jpg"
     alt="Assembly Programming Language Tutorial"
     style="max-width: 100%; border-radius: 10px; box-shadow: 0 6px 18px rgba(0,0,0,0.18); margin-top: 0.5rem;"
   />
